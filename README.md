@@ -1,6 +1,8 @@
-# PPV Picker
+<p align="center">
+  <img src="ppv_to.png" alt="Project Screenshot" width="350">
+</p>
 
-![banner](ppv_to.png)
+# PPV Picker
 
 Browse the event index straight from your terminal,
 pick an event and a substream, and get back the shareable **p...to URL** plus
