@@ -1,4 +1,4 @@
-# ppv_picker
+# PPV Picker
 
 ![banner](ppv_to.png)
 
