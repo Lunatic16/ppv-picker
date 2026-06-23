@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ppv_to.png" alt="Project Screenshot" width="350">
+  <img src="ppv.png" alt="Project Screenshot" width="350">
 </p>
 
 # PPV Picker
